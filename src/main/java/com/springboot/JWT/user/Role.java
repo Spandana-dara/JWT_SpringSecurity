@@ -1,4 +1,4 @@
-package user;
+package com.springboot.JWT.user;
 
 public enum Role {
 
